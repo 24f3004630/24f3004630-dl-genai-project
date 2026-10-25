@@ -1,1 +1,15 @@
-
+numpy
+pandas
+opencv-python-headless
+Pillow
+scikit-learn
+matplotlib
+tqdm
+PyYAML
+torch
+torchvision
+segmentation-models-pytorch
+albumentations
+timm
+wandb
+gradio
